@@ -1,0 +1,13 @@
+Class Name: JShell
+Parent Class: None
+Subclasses: None
+
+Responsibilities:
+* Run shell
+* Prompt user for input
+* feed input for further processing
+	
+Collaborators:
+* RunChecker
+* CommandManager
+* FileSystem

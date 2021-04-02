@@ -1,0 +1,9 @@
+Class name: DepthFirstIterator
+Parent Class: None
+Subclasses: None
+			
+Responsibilities:
+* Iterates through the filesystem
+	
+Collaborators:
+FileSystem

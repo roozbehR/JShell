@@ -1,0 +1,9 @@
+Class name: WebFileIOStream
+Parent Class: WebStreamI
+Subclasses: None
+			
+Responsibilities:
+* get input content from web files
+	
+Collaborators:
+* ErrorHandler

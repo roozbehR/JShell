@@ -1,0 +1,13 @@
+Class Name: FileSystemI (Interface)
+Parent Class: None
+Subclasses: MockFileSystem, FileSystem (implements)
+
+Responsibilities:
+* Keeps the File System
+* Passes the File System
+* Get current working place
+	
+Collaborators: 
+None
+
+	

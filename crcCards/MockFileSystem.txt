@@ -1,0 +1,11 @@
+Class Name: MockFileSystem
+Parent Class: FileSystemI
+Subclasses: None
+
+Responsibilities:
+* Keeps the File System
+* Passes the File System
+* Get current working place
+	
+Collaborators: 
+* Directory

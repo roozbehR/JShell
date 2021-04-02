@@ -1,0 +1,9 @@
+Class name: CommandHistoryI
+Parent Class: Command
+Subclasses: CommandHistory, MockCommandHistory
+			
+Responsibilities:
+* set up methods to create and manipulate stack of command calls
+	
+Collaborators:
+* WebStreamI

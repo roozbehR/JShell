@@ -1,0 +1,9 @@
+Class Name: HistoryCommand
+Parent Class: Command
+Subclasses: None
+
+Responsibilities:
+* print list of recent commands (with potentially specified length)
+
+Collaborators: 
+* CommandHistoryI

@@ -1,0 +1,13 @@
+Class Name: File (Interface)
+Parent Class: None
+Subclasses: TextFile (implements)
+
+Responsibilities:
+* Append content to file
+* Write content to file
+* Get content of file
+	
+Collaborators: 
+None
+
+	

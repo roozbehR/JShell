@@ -1,0 +1,10 @@
+Class Name: EchoCommand
+Parent Class: Command
+Subclasses: None
+
+Responsibilities:
+* Return string output given input
+	
+Collaborators: 
+* FileSystemVerifier
+* StringVerifier

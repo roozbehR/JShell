@@ -1,0 +1,9 @@
+Class name: RunChecker
+Parent Class: None
+Subclasses: None
+			
+Responsibilities:
+* keep track of whether the JShell is running or not
+	
+Collaborators: 
+None

@@ -1,0 +1,12 @@
+Class Name: TextFile
+Parent Class: Path (extends), File (implements)
+Subclasses: None
+
+Responsibilities:
+* store lines of text
+* clear file content
+* write to file
+* retrieve file content
+
+Collaborators:
+None

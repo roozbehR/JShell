@@ -1,0 +1,72 @@
+
+//Sprint 1 Backlog
+17th June (12:01 am) to 23rd June (11:59 pm)
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I should be able to prompt for user input
+b) As a user I should be able to parse user input through an interpreter
+c) As a user I should be notified of entering invalid/non-existent commands to know when nothing has happened
+d) As a user I should be able to view feedback from the shell when commands are not completed successfully to know when operations have not been carried out
+e) As a user I should be able to view feedback from the shell when invalid commands are entered to know when I did things wrong
+f) As a user I should be able to terminate the program
+g) As a user I should be able to see an ordered list of previous inputs to see what work has been done so far
+h) As a user I should be able to convert string to audible speech
+i) As a user I should be able to view the current working directory to see the path I am operating with respect to
+j) As a user I should be able to view contents of an arbitrary number of files at once to check file content
+k) As a user I should be able to should be able to create new directory with respect to current working directory
+l) As a user I should be able to change current working directory to another directory with respect to absolute path
+m) As a user I should be able to save current working directory while changing to new directory in case I want to come back to it later
+n) As a user I should be able to change to the most recent saved directory while removing them from the stack of saved directories to maintain proper flow of saved directories
+o) As a user I should be able to see the contents of the current directory to check what files or directories exist within it
+p) As a user I should be able to see documentation of each command to see how it works
+q) As a user I should be able to output string into shell to see how input text is interpreted
+
+Specific tasks to be accomplished:
+a-1) (JShell) Create CRC card for shell capabilities
+a-2) (JShell) Implement code for general shell interface
+a-3) (JShell) Implement code to continuously prompt for and handle user input
+c)   (JShell) Implement code to catch and report non-existent/invalid commands
+d,e) (JShell) Implement code to report unsuccessful command execution
+f)   (JShell) Implement code to exit shell program
+g-1) (History) Create CRC card for History command
+g-2) (History) Implement code to save previous inputs in stack format
+g-3) (History) Implement code to display specified number of commands
+h-1) (Speak) Create CRC card for Speak command
+h-2) (Speak) Implement base code to convert single input string to speech
+i-1) (Pwd) Create CRC card for Pwd command
+i-2) (Pwd) Implement code to print working directory
+j-1) (Cat) Create CRC card for Cat command
+j-2) (Cat) Implement code to display contents of all specified files
+k-1) (Mkdir) Create CRC card for Mkdir command
+k-2) (Mkdir) Implement code to create specified directory inside current working directory
+l-1) (Cd) Create CRC card for Cd command
+l-2) (Cd) Implement code to change working directory to specified absolute path
+m-1) (Pushd) Create CRC card for Pushd command
+m-2) (Pushd) Implement code to save current working directory to stack
+m-3) (Pushd) Implement code to change working directory to specified directory
+n-1) (Popd) Create CRC card for Popd command
+n-2) (Popd) Implement code to remove directory from top of stack
+n-3) (Popd) Implement code to change working directory to directory removed from top of stack
+o-1) (Ls) Create CRC card for Ls command
+o-2) (Ls) Implement code to print contents of current working directory
+p-1) (Man) Create CRC card for Man command
+p-2) (Man) Implement code to print documentation for command
+q-1) (Echo) Create CRC card for Echo command
+q-2) (Echo) Implement code to print user input to shell
+
+
+These tasks are assigned as follows:
+
+User: Roozbeh Yadollahi
+Tasks: k-1, k-2, o-1, o-2, p-1, p-2
+
+User: Shammo Talukder
+Tasks: l-1, l-2, m-1, m-2, m-3, n-1, n-2, n-3, q-1, q-2
+
+User: Rakshit Patel
+Tasks: h-1, h-2, i-1, i-2, j-1, j-2
+
+User: Farhan Chowdhury
+Tasks: a-1, a-2, a-3, c, d,e), f, g-1, g-2, g-3
+

@@ -1,0 +1,72 @@
+
+//Sprint 4 Backlog 
+17th July (12: 01 am) to 23rd July (11: 59 pm)
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I should be able to redirect output from all commands to a file 							
+b) As a user I should be able to make multiple directories at once					
+c) As a user I should be able to see the content of a directory and the content of all levels of nested directories within it
+d) As a user I should be able to relocate a path from one path to another			
+e) As a user I should be able to copy contents of one path to a new path			
+f) As a user I should know when the contents of a file cannot be displayed			
+g) As a user I should be able to fetch files from a URL to the file system	
+h) As a user I should be able to save the status of the program						
+i) As a user I should be able to load the saved state of the program						
+j) As a user I should be able to find all the files of a given name					
+k) As a user I should be able to view the entire file system in an organized format	
+
+Specific tasks to be accomplished:
+a-1) (JShell) Finalize design for output redirection
+a-2) (JShell) Update CRC cards to reflect output redirection
+a-3) (JShell) Add or modify classes/interfaces for output redirection 
+b-1) (MkdirCommand) Update CRC card to reflect new functionality
+b-2) (MkdirCommand) Add functionality to make multiple directories with one commands
+b-3) (MkdirCommand) Defensively test MkdirCommand
+c-1) (LsCommand) Update CRC card to reflect new functionality
+c-2) (LsCommand) Add functionality to list content of directories recursively
+c-3) (LsCommand) Defensively test LsCommand
+d-1) (MvCommand) Create CRC card for MvCommand
+d-2) (MvCommand) Implement functionality to relocate a path to another
+d-3) (MvCommand) Defensively test MvCommand
+d-4) (MvCommand) Implement appropriate error handling for MvCommand
+e-1) (CpCommand) Create CRC card for CpCommand
+e-2) (CpCommand) Implement functionality to copy contents of one path to another
+e-3) (CpCommand) Defensively test CpCommand
+e-4) (CpCommand) Implement appropriate error handling for CpCommand
+f-1) (CatCommand) Enhance error handling for CatCommand
+g-1) (CurlCommand) Create CRC card for CurlCommand
+g-2) (CurlCommand) Implement functionality to fetch files from (the internet) to the file system
+g-3) (CurlCommand) Defensively test CurlCommand
+g-4) (CurlCommand) Implement appropriate error handling for CurlCommand
+h-1) (SaveCommand) Create CRC card for SaveCommand
+h-2) (SaveCommand) Implement functionality to save the status of the running JShell
+h-3) (SaveCommand) Defensively test SaveCommand
+i-1) (LoadCommand) Create CRC card for LoadCommand
+i-2) (LoadCommand) Implement functionality to load a previously saved state of the JShell
+i-3) (LoadCommand) Defensively test LoadCommand
+j-1) (FindCommand) Create CRC card for FindCommand
+j-2) (FindCommand) Implement functionality to find all files with a given name in one specific directory
+j-3) (FindCommand) Implement functionality to find all files with a given name in multiple directories
+j-4) (FindCommand) Defensively test FindCommand
+j-5) (FindCommand) Implement appropriate error handling for FindCommand
+k-1) (TreeCommand) Create CRC card for TreeCommand
+k-2) (TreeCommand) Implement functionality to list entire file system in tree format
+k-3) (TreeCommand) Defensively test TreeCommand
+k-4) (TreeCommand) Implement appropriate error handling for TreeCommand
+
+
+These tasks are assigned as follows:
+
+User: Roozbeh Yadollahi
+Tasks: c-1, c-2, c-3, k-1, k-2, k-3, k-4, j-4
+
+User: Shammo Talukder
+Tasks: i-1, i-2, i-3, h-1, h-2, h-3
+
+User: Rakshit Patel
+Tasks: b-1, b-2, b-3, d-1, d-2, d-3, d-4, f-1, e-1, e-2, e-3, e-4
+
+User: Farhan Chowdhury
+Tasks: a-1, a-2, a-3, g-1, g-2, g-3, g-4, j-1, j-2, j-3, j-5
+

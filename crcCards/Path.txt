@@ -1,0 +1,9 @@
+Class Name: Path
+Parent Class: None
+Subclasses: Directory, File
+
+Responsibilities:
+* keep record of path name and location in the file system
+	
+Collaborators:
+None

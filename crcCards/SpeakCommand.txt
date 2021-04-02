@@ -1,0 +1,10 @@
+Class name: SpeakCommand
+Parent Class: Command
+Subclasses: None
+			
+Responsibilities:
+* Convert input strings to audible speech
+* Stop taking input when QUIT is inputed
+	
+Collaborators:
+* StdIOStream

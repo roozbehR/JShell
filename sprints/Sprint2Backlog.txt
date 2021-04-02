@@ -1,0 +1,60 @@
+
+//Sprint 2 Backlog
+24th June (12:01 am) to 30th June (11:59 pm)
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I should be able to convert multiple lines of text to speech at the same time 
+b) As a user I should be able to enter special keyword to end transcription 
+c) As a user I should be able to create new directory with respect to absoloute path in existing location 
+d) As a user I should be able to change current working directory to another directory with respect to current directory 
+e) As a user I should be able to view the contents of multiple directories at once to see what exist in all of them 
+f) As a user I should be able to view entire subtrees of directories to see which are files and and which are directories 
+g) As a user I should be able to view contents of an arbitrary number of files at once to check file content
+h) As a user I should be able to output string into output file to save text in the file 
+i) As a user I should be able to send output string into output file to add it to the file 
+j) As a user I should be able to view feedback from the shell when commands are not completed successfully to know when operations have not been carried out
+k) As a user I should be able to view feedback from the shell when invalid commands are entered to know when I did things wrong
+l) As a user I should be able to parse user input through an interpreter
+m) As a user I should be able to change to the most recent saved directory while removing them from the stack of saved directories to maintain proper flow of saved directories 
+
+Specific tasks to be accomplished:
+TASKS NOT COMPLETED FROM SPRINT 1 
+1) (Cat) Implement code to display contents of all specified files
+2) (Man) Implement code to print documentation for command
+3A) (Pushd) Create CRC card for Pushd command
+3B) (Pushd) Implement code to save current working directory to stack
+3C) (Pushd) Implement code to change working directory to specified directory
+4A) (Popd) Create CRC card for Popd command
+4B) (Popd) Implement code to remove directory from top of stack
+4C) (Popd) Implement code to change working directory to directory removed from top of stack
+-----------------------------------------------------------------------------------
+NEW TASKS FOR SPRINT 2
+a) (Speak) Enhance code to allow user to convert multiple lines of text to speech in a single session
+b) (Speak) Implement code to stop transcription session by taking in keyword from user
+c) (Mkdir) Implement additional code to allow user to make directory by giving absolute path
+d) (Cd) Implement code to allow user to change working directory by specifying relative directory
+e) (Ls) Implement code to allow user to view contents of multiple directories at once
+f) (Ls) Enhance code to distinguish between files and directories, and report to the user
+g) (Cat) Enhance code to allow user to specify multiple files at once to view their content
+h) (Echo) Implement code to create new text files, or clear existing ones
+i) (Echo) Enhance code to allow user to redirect output string to specified output file
+j,k) (JShell) Optimize InputInterpreter class to handle errors more transparently
+l) (JShell) Enhance code to recognize flags after parameters
+m) (JShell) Add capability for shell to hold a stack of recent working directories
+------------------------------------------------------------------------------------
+
+These tasks are assigned as follows:
+
+User: Roozbeh Yadollahi
+Tasks: e, f, 2
+
+User: Shammo Talukder
+Tasks: d, h, i, 3A-C, 4A-C
+
+User: Rakshit Patel
+Tasks: a, b, c, g, 1
+
+User: Farhan Chowdhury
+Tasks: j, k, l, m
+

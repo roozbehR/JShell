@@ -1,0 +1,13 @@
+Class Name: Directory
+Parent Class: Path
+Subclasses: None
+
+Responsibilities:
+* store directories or files inside directory
+* add to directories or files inside directory	
+* check if file or directory is contained
+* retrieve content directory
+* remove specified content inside directory
+	
+Collaborators: 
+None

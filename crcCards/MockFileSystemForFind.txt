@@ -1,0 +1,11 @@
+Class name: MockFileSystemForFind
+Parent Class: FileSystemI
+Subclasses: None
+			
+Responsibilities:
+* create a file system that has all possible scenarios FindCommand would deal
+  with
+	
+Collaborators:
+* Directory
+* TextFile

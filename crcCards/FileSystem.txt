@@ -1,0 +1,11 @@
+Class Name: FileSystem
+Parent Class: None
+Subclasses: None
+
+Responsibilities:
+* store root of tree of directory and file paths
+* store history of working directories
+* create and modify directories and files
+	
+Collaborators:
+* Directory

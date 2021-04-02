@@ -1,0 +1,13 @@
+Class name: CatCommand
+Parent Class: Command
+Subclasses: None
+			
+Responsibilities:
+* Print the contents of the specified files
+* Three line breaks will separate the contents of each file
+* Print an error message for each invalid path
+
+Collaborators:
+* FileSystem
+* FileSystemVerifier
+* StdIOStream

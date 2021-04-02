@@ -1,0 +1,9 @@
+Class name: ArgumentInterpreter
+Parent Class:None
+Subclasses: None
+			
+Responsibilities:
+* Find the arguments in the given input
+
+Collaborators:
+* FlagInterpreter

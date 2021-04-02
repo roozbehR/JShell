@@ -1,0 +1,14 @@
+Class name: Command
+Parent Class: None
+Subclasses: CatCommand, CdCommand, CpCommand, CurlCommand, EchoCommand,
+			ExitCommand, FindCommand, HistoryCommand, LoadCommand, LsCommand,
+			ManCommand, MkdirCommand, MvCommand, PopdCommand, PushdCommand,
+			PwdCommand, RmCommand, SaveCommand, SpeakCommand, TreeCommand
+			
+Responsibilities:
+* execute command operations
+* stop process and invoke error handling if operations cannot proceed
+* have manual describing command operations
+	
+Collaborators:
+* ErrorHandler

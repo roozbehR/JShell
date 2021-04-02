@@ -1,0 +1,12 @@
+Class name: StructuralPrinting
+Parent Class: None
+Subclasses: None
+			
+Responsibilities:
+* Prints entire or portion of File System in a structured format
+	
+Collaborators:
+* ErrorHandler
+* Directory
+* Path
+* TextFile

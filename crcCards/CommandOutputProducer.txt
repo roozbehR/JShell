@@ -1,0 +1,14 @@
+Class name: CommandOutputProducer
+Parent Class: None
+Subclasses: None
+			
+Responsibilities:
+* determine output stream to redirect command output to
+* feed output from commands into redirected stream
+	
+Collaborators:
+* ErrorHandler
+* FileSystemVerifier
+* FileSystemManipulation
+* StdIOStream
+* FileIOStream

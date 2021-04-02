@@ -1,0 +1,9 @@
+Class name: FlagInterpreter
+Parent Class:None
+Subclasses: None
+			
+Responsibilities:
+* find the flags in the given input
+
+Collaborators: 
+None

@@ -1,0 +1,9 @@
+Class Name: StringVerifier
+Parent Class: None
+Subclasses: None
+
+Responsibilities:
+* validate double-quoted string input
+	
+Collaborators: 
+None

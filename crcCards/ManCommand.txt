@@ -1,0 +1,11 @@
+Class Name: ManCommand
+Parent Class: Command
+Subclasses: None
+
+Responsibilities:
+* Provide the user with a documentation about a specified command
+
+Collaborators:
+* AllCommands
+* ErrorHandler
+* InputInterpreter

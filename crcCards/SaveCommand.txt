@@ -1,0 +1,17 @@
+Class Name: SaveCommand
+Parent Class: Command
+Subclasses: None
+
+Responsibilities:
+* Serialize the current state of the entire file system 
+* Serialize the current state of the command stack
+* Serialize the current state of the directory stack 
+* Save serialized objects to specified serialized file
+	
+Collaborators:
+* CommandHistory 
+* FileSystem
+
+
+
+	

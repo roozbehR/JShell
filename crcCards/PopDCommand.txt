@@ -1,0 +1,13 @@
+Class Name: PopDCommand
+Parent Class: Command
+Subclasses: None
+
+Responsibilities:
+* Remove directory from top of stack
+* Change directory
+	
+Collaborators: 
+* CdCommand
+* FileSystem
+* CommandOutputProducer
+	

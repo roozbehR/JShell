@@ -1,0 +1,9 @@
+Class name: MockWebFileIOStream
+Parent Class: WebStreamI
+Subclasses: None
+			
+Responsibilities:
+* get dummy web file data if certain valid link is input
+	
+Collaborators:
+None

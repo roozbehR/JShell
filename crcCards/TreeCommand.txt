@@ -1,0 +1,13 @@
+Class name: TreeCommand
+Parent Class: Command
+Subclasses: None
+			
+Responsibilities:
+* Prints the entire file system in a tree format
+	
+Collaborators:
+* ErrorHandler
+* FileSystem
+* Directory
+* StructuralPrinting
+* InputInterpreter

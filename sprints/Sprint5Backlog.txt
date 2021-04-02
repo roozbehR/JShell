@@ -1,0 +1,64 @@
+
+//Sprint 5 Backlog 
+17th July (12: 01 am) to 2nd August (11: 59 pm)
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I should be able to save the status of the program						
+b) As a user I should be able to load the saved state of the program
+c) As a user I should be able to remove a directory from the file system
+d) As a user I should be able to find all the directories of a given name
+e) As a user I should be able to redirect output from all commands to a file 							
+f) As a user I should be able to make multiple directories at once					
+g) As a user I should be able to see the content of a directory and the content of all levels of nested directories within it
+h) As a user I should be able to relocate a path from one path to another			
+i) As a user I should be able to copy contents of one path to a new path					
+j) As a user I should be able to fetch files from a URL to the file system	
+
+Specific tasks to be accomplished:
+TASKS NOT COMPLETED FROM SPRINT 4
+1) (LsCommand) Update CRC card to reflect new functionality
+2A)(TreeCommand) Create CRC card for TreeCommand
+2B)(TreeCommand) Implement appropriate error handling for TreeCommand
+3A)(FindCommand) Defensively test FindCommand
+3B)(FindCommand) Implement functionality to find all files with a given name in one specific directory
+3C)(FindCommand) Implement functionality to find all files with a given name in multiple directories
+3D)(FindCommand) Implement appropriate error handling for FindCommand
+4A)(CpCommand) Defensively test CpCommand
+4B)(CpCommand) Implement appropriate error handling for CpCommand
+-----------------------------------------------------------------------------------
+NEW TASKS FOR SPRINT 2
+a-1) (SaveCommand) Implement appropriate error handling for SaveCommand
+a-2) (SaveCommand) Write JUnit tests to test functionality of SaveCommand
+b-1) (LoadCommand) Implement appropriate error handling for LoadCommand
+b-2) (LoadCommand) Write JUnit tests to test functionality of LoadCommand
+c-1) (RmCommand) Create CRC card for RmCommand
+c-2) (RmCommand) Implement functionality to remove directory from file system
+c-3) (RmCommand) Implement appropriate error handling for RmCommand
+c-4) (RmCommand) Defensively test RmCommand
+c-5) (RmCommand) Write JUnit tests to test functionality of RmCommand
+d-1) (FindCommand) Write JUnit tests to test functionality of FindCommand
+e-1) (Redirection) Write JUnit tests to test functionality of classes involved with redirection
+f-1) (Mkdir) Write JUnit tests to test functionality of MkdirCommand
+g-1) (LsCommand) Write JUnit tests to test functionality of LsCommand
+h-1) (MvCommand) Write JUnit tests to test functionality of MvCommand
+i-1) (CpCommand) Write JUnit tests to test functionality of CpCommand
+j-1) (CurlCommand) Write JUnit tests to test functionality of CurlCommand
+------------------------------------------------------------------------------------
+ 
+
+These tasks are assigned as follows:
+
+User: Roozbeh Yadollahi
+Tasks: 1, 2A, 2B, 3A, g-1
+
+User: Shammo Talukder
+Tasks: a-1, a-2, b-1, b-2, c-1, c-2, c-3, c-4, c-5
+
+User: Rakshit Patel
+Tasks: 4A, 4B, f-1, h-1, i-1
+
+User: Farhan Chowdhury
+Tasks: 3B, 3C, 3D, d-1, e-1, j-1
+
+
+ 

@@ -1,0 +1,10 @@
+Class Name: IOStream
+Parent Class: None
+Subclasses: None
+
+Responsibilities:
+* output info to the console
+* read info from the console
+	
+Collaborators:
+None

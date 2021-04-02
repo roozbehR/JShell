@@ -1,0 +1,9 @@
+Class name: QueueMembers (nested class inside) DepthFirstIterator
+Parent Class: None
+Subclasses: None
+			
+Responsibilities:
+* Save node of a filesystem
+	
+Collaborators:
+FileSystem

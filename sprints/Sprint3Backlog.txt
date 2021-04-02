@@ -1,0 +1,49 @@
+
+//Sprint 3 Backlog
+1st July (12:01 am) to 8th July  (11:59 pm)
+
+
+User stories from Product Backlog that we will address in this sprint:
+a) As a user I should be able to view feedback from the shell when commands are not completed successfully to know when operations have not been carried out 					
+b) As a user I can see documentation of each command to see how it works
+
+Specific tasks to be accomplished: 
+a-1) (JShell) Defensively test and ensure functionality of interpreters by entering a variety of both valid and invalid commands, arguments, and flags
+a-2) (History) Defensively test and refactor command to ensure appropriate, specific error messages are displayed for invalid arguments/flags 	
+a-3) (Speak) Defensively test and refactor command to ensure appropriate, specific error messages are displayed for invalid arguments/flags
+a-4) (Mkdir) Defensively test and refactor command to ensure appropriate, specific error messages are displayed for invalid arguments/flags
+a-5) (Cd) Defensively test and refactor command to ensure appropriate, specific error messages are displayed for invalid arguments/flags
+a-6) (Ls) Defensively test and refactor command to ensure appropriate, specific error messages are displayed for invalid arguments/flags
+a-7) (Pwd) Defensively test and refactor command to ensure appropriate, specific error messages are displayed for invalid arguments/flags
+a-8) (Pushd) Defensively test and refactor command to ensure appropriate, specific error messages are displayed for invalid arguments/flags
+a-9) (Popd) Defensively test and refactor command to ensure appropriate, specific error messages are displayed for invalid arguments/flags
+a-10) (Cat) Defensively test and refactor command to ensure appropriate, specific error messages are displayed for invalid arguments/flags
+a-11) (Echo) Defensively test and refactor command to ensure appropriate, specific error messages are displayed for invalid arguments/flags
+a-12) (Man) Defensively test and refactor command to ensure appropriate, specific error messages are displayed for invalid arguments/flags							 																									 
+b-1) (Man) Implement manual entry for exit command
+b-2) (History) Ensure formatting of manual is consistent with other commands
+b-3) (Speak) Ensure formatting of manual is consistent with other commands
+b-4) (Mkdir) Ensure formatting of manual is consistent with other commands
+b-5) (Cd) Ensure formatting of manual is consistent with other commands
+b-6) (Ls) Ensure formatting of manual is consistent with other commands
+b-7) (Pwd) Ensure formatting of manual is consistent with other commands
+b-8) (Pushd) Ensure formatting of manual is consistent with other commands
+b-9) (Popd) Ensure formatting of manual is consistent with other commands
+b-10) (Cat) Ensure formatting of manual is consistent with other commands
+b-11) (Echo) Ensure formatting of manual is consistent with other commands
+b-12) (Man) Ensure formatting of manual is consistent with other commands
+
+
+These tasks are assigned as follows:
+
+User: Roozbeh Yadollahi
+Tasks: a-6, a-12, b-1, b-6, b-12
+
+User: Shammo Talukder
+Tasks: a-5, a-8, a-9, a-11, b-5, b-8, b-9, b-11
+
+User: Rakshit Patel
+Tasks: a-3, a-4, a-7, a-10, b-3, b-4, b-7, b-10
+
+User: Farhan Chowdhury
+Tasks: a-1, a-2, b-2

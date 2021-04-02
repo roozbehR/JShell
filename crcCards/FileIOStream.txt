@@ -1,0 +1,10 @@
+Class name: FileIOStream
+Parent Class: None
+Subclasses: None
+			
+Responsibilities:
+* write content to file
+* delete content from file
+	
+Collaborators:
+* ErrorHandler

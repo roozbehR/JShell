@@ -1,0 +1,16 @@
+Class Name: CommandManager
+Parent Class: None
+Subclasses: None
+
+Responsibilities:
+* get parsed user input
+* execute appropriate command based on user input
+* keep track of stack of history of commands called
+* feed output from commands into an output producer
+	
+Collaborators:
+* InputInterpreter
+* AllCommands
+* CommandHistory
+* Command
+* CommandOutputProducer

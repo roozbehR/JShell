@@ -1,0 +1,14 @@
+Class Name: MvCommand
+Parent Class: Command
+Subclasses: None
+
+Responsibilities:
+* Moves a File in the specified path into the new path
+* Moves a directory and its contents from the specified path to the new path
+
+Collaborators:
+* Path
+* FileSystem
+* Cd
+* FileSystemVerifier
+* Mkdir

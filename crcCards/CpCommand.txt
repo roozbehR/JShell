@@ -1,0 +1,14 @@
+Class Name: CpCommand
+Parent Class: Command
+Subclasses: None
+
+Responsibilities:
+* Copies a File in the specified path into the new path
+* Copies a directory and its contents from the specified path into the new path
+
+Collaborators:
+* Path
+* FileSystem
+* Cd
+* FileSystemVerifier
+* Mkdir

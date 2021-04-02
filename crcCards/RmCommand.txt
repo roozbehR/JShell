@@ -1,0 +1,12 @@
+Class Name: RmCommand
+Parent Class: Command
+Subclasses: None
+
+Responsibilties:
+* Remove a specified directory from the file system
+	
+Collaborators: 
+* FileSystem
+* FileSystemVerifier
+* FileSystemManipulation
+	

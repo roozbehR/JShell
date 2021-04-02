@@ -1,0 +1,11 @@
+Class name: FindCommand
+Parent Class: Command
+Subclasses: None
+			
+Responsibilities:
+* get files of specified name from specified directories
+* get directories of specified name from specified directories
+	
+Collaborators:
+* FileSystemManipulation
+* DepthFirstIterator

@@ -1,0 +1,16 @@
+Class Name: LsCommand
+Parent Class: Command
+Subclasses: None
+
+Responsibilities:
+* list the content of one or more directory
+
+Collaborators:
+* FileSystem
+* InputIterpreter
+* StructuralPrinting
+* FileSystemManipulation
+* Path
+* TextFile
+* Directory
+* ErrorHandler

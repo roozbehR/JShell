@@ -1,0 +1,14 @@
+Class Name: LoadCommand
+Parent Class: Command
+Subclasses: None
+
+Responsibilties:
+* Load a saved state of the entire file system through input from a serialized file
+* Load a saved state of the command stack through input from a serialized file
+* Load a saved state of the directory stack through input from a serialized file
+	
+Collaborators: 
+* CommandHistory
+* FileSystem
+
+	

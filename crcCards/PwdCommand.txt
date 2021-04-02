@@ -1,0 +1,9 @@
+Class name: PwdCommand
+Parent Class: Command
+Subclasses: None
+			
+Responsibilities:
+* Print the full path of the current working directory
+
+Collaborators:
+* StdIOStream

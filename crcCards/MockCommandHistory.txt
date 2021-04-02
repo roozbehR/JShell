@@ -1,0 +1,8 @@
+Class name: MockCommandHistory
+Parent Class: CommandHistoryI
+Subclasses: None
+			
+Responsibilities:
+* Keep track of the mock entered commands and has them saved
+	
+Collaborators:

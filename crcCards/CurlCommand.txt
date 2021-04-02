@@ -1,0 +1,9 @@
+Class name: CurlCommand
+Parent Class: Command
+Subclasses: None
+			
+Responsibilities:
+* retrieve and output information from given URL
+	
+Collaborators:
+* WebStreamI

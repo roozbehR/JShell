@@ -1,0 +1,10 @@
+Class Name: InputInterpreter
+Parent Class: None
+Subclasses: None
+
+Responsibilities:
+* process user input to pass as arguments and flags for commands
+	
+Collaborators:
+* ArgumentInterpreter
+* FlagInterpreter

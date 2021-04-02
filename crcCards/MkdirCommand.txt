@@ -1,0 +1,13 @@
+Class Name: MkdirCommand
+Parent Class: Command
+Subclasses: None
+
+Responsibilities:
+* Makes directory with a given name at the specified path
+* Create multiple directories at once
+
+Collaborators:
+* Path
+* FileSystem
+* Cd
+* FileSystemVerifier

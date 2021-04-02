@@ -1,0 +1,12 @@
+Class Name: CdCommand
+Parent Class: Command
+Subclasses: None
+
+Responsibilties:
+* Change the current working directory to absolute or relative path specified by user
+	
+Collaborators: 
+* FileSystem
+* FileSystemVerifier
+* FileSystemManipulation
+	

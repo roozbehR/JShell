@@ -1,0 +1,9 @@
+Class name: WebStreamI
+Parent Class: None
+Subclasses: WebFileIOStream, MockWebFileIOStream
+			
+Responsibilities:
+* lay foundation methods for a web file IO class
+	
+Collaborators:
+None

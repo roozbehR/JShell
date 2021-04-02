@@ -1,0 +1,9 @@
+Class name: ErrorHandler
+Parent Class: None
+Subclasses: None
+			
+Responsibilities:
+* output messages that explain error exceptions from command calls
+	
+Collaborators: 
+None

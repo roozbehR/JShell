@@ -1,0 +1,12 @@
+Class Name: FileSystemVerifier
+Parent Class: None
+Subclasses: None
+
+Responsibilities:
+* verify that files, paths, and directories exist within fileSystem
+
+Collaborators:
+* Path
+* Directory
+* File
+* FileSystemManipulation

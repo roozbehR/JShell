@@ -1,0 +1,13 @@
+Class Name: FileSystemManipulation
+Parent Class: None
+Subclasses: None
+
+Responsibilities:
+* Find and returns a file or directory with a given absolute or relative path
+* Find parent directory of a file or directory with a given absolute or relative path
+
+Collaborators:
+* FileSystem
+* Path
+* Directory
+* TextFile
